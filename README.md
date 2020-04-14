@@ -6,8 +6,8 @@
 
 # Regression Mean Squear Error is 0.24 for ploynomyal regression
 
-- Classification Accurcy
-  KNN is 72%
-  SVM is 71.5%
-  Adabost is 71%
-  Decision Tree 71%
+# Classification Accurcy
+- KNN is 72%
+- SVM is 71.5%
+- Adabost is 71%
+-Decision Tree 71%
