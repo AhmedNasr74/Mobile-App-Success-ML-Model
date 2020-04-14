@@ -1,0 +1,10 @@
+import datetime
+for i, row in df.iterrows():
+    print(df.iloc[ i , 4])
+    #df.iloc[ i , 4] = datetime.datetime(df.iloc[ i , 4])
+
+
+import datetime
+for i, row in df.iterrows():
+    print(str(df.iloc[ i , 2]) +str(df.iloc[ i , 4]))
+    #df.iloc[ i , 4] = datetime.datetime(df.iloc[ i , 4])
