@@ -10,4 +10,4 @@
 - KNN is 72%
 - SVM is 71.5%
 - Adabost is 71%
--Decision Tree 71%
+- Decision Tree 71%
